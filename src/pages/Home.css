@@ -1,0 +1,9 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+th, td{padding: 10px !important;}
+
+img{height: 300px; width: 300px}

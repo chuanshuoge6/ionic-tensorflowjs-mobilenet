@@ -1,0 +1,7 @@
+{
+  "name": "ionic-keras",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
